@@ -2,7 +2,7 @@
 Version control for my Unreal Engine 5 project, "Rend", an open-world RPG.
 
 # This game was created as a part of Stephen Ulibarri's course on Udemy, "Unreal Engine 5 C++ The Ultimate Game Developer Course".
-# With over 230 lectures and 50 hours of content, this course covers a variety of subjects in-depth, such as: 
+ With over 230 lectures and 50 hours of content, this course covers a variety of subjects in-depth, such as: 
 - Event scripting with C++ and Blueprints, going over how to implement logic with either event system.
 - The very basics of Unreal Engine 5 all the way to the necessary components and game mechanics to create large-scale projects.
 - Specific subjects include: Animation, Combat, Character Movement, Open-World Landscape Creation, Controls, and much more.
