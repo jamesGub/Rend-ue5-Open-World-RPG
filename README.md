@@ -8,6 +8,6 @@ Version control for my Unreal Engine 5 project, "Rend", an open-world RPG.
 - Specific subjects include: Animation, Combat, Character Movement, Open-World Landscape Creation, Controls, and much more.
 
 # This repo contains source control for my project, with content, scripts, and edits pushed continually to show progress. 
-# This repo is NOT representative of the entire project, as I have already done the bulk of it before creating this, however I will include screenshots and start-to-finish progression as I see fit.
+ This repo is NOT representative of the entire project, as I have already done the bulk of it before creating this, however I will include screenshots and start-to-finish progression as I see fit.
 
-# Support Stephen and the course here! https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/learn/lecture/33116706?start=450#overview
+ Support Stephen and the course here! https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/learn/lecture/33116706?start=450#overview
